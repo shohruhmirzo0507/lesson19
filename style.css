@@ -6,7 +6,7 @@
 }
 body{
     min-height: 100vh;
-    background: dodgerblue;
+    background: linear-gradient(45deg green, yellow, red);
     display: flex;
     font-size: 5vw;
     color: white;
